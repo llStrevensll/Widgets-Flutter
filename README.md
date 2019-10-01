@@ -1,4 +1,4 @@
-# componentes
+# Widgets
 
 A new Flutter project.
 
@@ -37,5 +37,5 @@ En esta sección tocaremos temas sobre:
 
 ***App***
 <p align="center">
-  <img src="https://github.com/llStrevensll/Contador-Flutter/blob/master/images_git/app1.PNG?raw=true" alt="app1"/>
+  <img src="https://github.com/llStrevensll/Widgets-Flutter/blob/master/images_git/app1.PNG?raw=true" alt="app1"/>
 </p>
