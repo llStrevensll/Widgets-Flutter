@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 -------
-En esta sección tocaremos temas sobre:
+Temas:
 
 - Listviews
 - ListTiles
